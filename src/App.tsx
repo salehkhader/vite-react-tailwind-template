@@ -7,9 +7,9 @@ export default function App() {
 			<Layout>
 				<div className="prose dark:prose-invert max-w-none">
 					<div className="flex w-full flex-col items-center justify-center text-center">
-						<h1 >Hello World!</h1>
+						<h1 >Welcome!</h1>
 						<p>
-							This is a starter template for React projects with Tailwind CSS
+							Starter template for React projects with Tailwind CSS
 							and TypeScript.
 						</p>
 						<button
